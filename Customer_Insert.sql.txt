@@ -1,0 +1,4 @@
+insert into customer_ajith
+values
+(1,'ajith'),
+(2,'vihaan');
