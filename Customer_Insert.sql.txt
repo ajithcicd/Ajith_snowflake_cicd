@@ -1,4 +1,4 @@
-insert into customer_ajith
+insert into customer_ajith_keshu
 values
 (1,'ajith'),
 (2,'vihaan');
