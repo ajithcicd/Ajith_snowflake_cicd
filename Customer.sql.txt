@@ -1,4 +1,4 @@
-create table customer_ajith
+create table customer_ajith_KESHU
 (
 cust_id number,
 name varchar
